@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of Artificial Intelligence",
+    "speakers": ["Dr. Evelyn Reed"],
+    "categories": ["AI", "Machine Learning", "Future Tech"],
+    "duration": 60,
+    "description": "A deep dive into the next decade of AI, exploring emerging trends, ethical considerations, and the potential impact on society."
+  },
+  {
+    "title": "Building Scalable Web Applications",
+    "speakers": ["John Smith", "Jane Doe"],
+    "categories": ["Web Development", "Scalability", "Architecture"],
+    "duration": 60,
+    "description": "Learn the best practices for designing and building web applications that can handle millions of users without breaking a sweat."
+  },
+  {
+    "title": "Cybersecurity in a Post-Quantum World",
+    "speakers": ["Dr. Alex Chen"],
+    "categories": ["Cybersecurity", "Quantum Computing", "Cryptography"],
+    "duration": 60,
+    "description": "An exploration of the threats quantum computing poses to current encryption standards and the race to develop quantum-resistant cryptography."
+  },
+  {
+    "title": "The Rise of Serverless Computing",
+    "speakers": ["Maria Garcia"],
+    "categories": ["Serverless", "Cloud Computing", "Architecture"],
+    "duration": 60,
+    "description": "Discover the benefits of serverless architectures, how to leverage them to reduce costs, and best practices for building serverless applications."
+  },
+  {
+    "title": "Frontend Frameworks: A Comparative Analysis",
+    "speakers": ["David Lee", "Sarah Kim"],
+    "categories": ["Frontend", "Web Development", "JavaScript"],
+    "duration": 60,
+    "description": "A comprehensive comparison of the most popular frontend frameworks: React, Vue, and Angular. We'll look at performance, learning curve, and ecosystem."
+  },
+  {
+    "title": "The Power of Data Visualization",
+    "speakers": ["Dr. Ben Carter"],
+    "categories": ["Data Science", "Visualization", "Big Data"],
+    "duration": 60,
+    "description": "Learn how to turn complex datasets into compelling visual stories that drive insights and decision-making."
+  }
+]
